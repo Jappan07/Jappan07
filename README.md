@@ -1,4 +1,11 @@
-### Hi there 👋
+# [![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/github_banner.png)]
+<p align='center'>
+<a href="https://www.facebook.com/jappan.jeet.9/"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jappanjeet-singh/"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>
+</p>
+
+### Hey there 👋
 
 <!--
 **Jappan07/Jappan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
