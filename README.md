@@ -7,7 +7,7 @@
 
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
 
-I'm a developer who is passionate about web development and machine learning. I have a passion for learning and sharing my knowledge with others.
+My name is Jappan, I'm a developer who is passionate about web development and machine learning. I have a passion for learning and sharing my knowledge with others.
 Some technologies i enjoy working with include Python, C++, Javascript & Html/Css.I hope you'll find my work valuable.
 Feel free to reach out to me on Telegram (@Jappan07) or send me a mail at jappanjeet.99 at gmail.com .
 
