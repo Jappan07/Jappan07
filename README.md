@@ -9,7 +9,7 @@
 
 My name is Jappan, I'm a developer who is passionate about web development and machine learning. I have a passion for learning and sharing my knowledge with others.
 Some technologies i enjoy working with include Python, C++, Javascript & Html/Css. I hope you'll find my work valuable. I am open for collaborating in good projects.
-Feel free to reach out to me on Telegram<img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png">(@Jappan07) or send me a mail at jappanjeet.99@gmail.com.
+Feel free to reach out to me on Telegram <img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png"> (@Jappan07) or send me a mail at <img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png"> jappanjeet.99@gmail.com.
 
 
 <!--
