@@ -3,6 +3,7 @@
 <a href="https://www.facebook.com/jappan.jeet.9/" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto: jappanjeet.99@gmail.com"><img width="30px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Gmail_logo.png"></a>&nbsp;&nbsp;
 <a href="https://jappan07.github.io" ><img height="30" style="position:relative; right:3px; top:1px" height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/globe.png"></a>&nbsp;&nbsp;
 </p>
 
@@ -10,7 +11,7 @@
 
 #### My name is Jappan, I'm a developer who is passionate about web development and machine learning. I have a passion for learning and sharing my knowledge with others.
 #### Some technologies i enjoy working with include Python, C++, Javascript & Html/Css. I hope you'll find my work valuable. I am open for collaborating in good projects.
-#### Feel free to reach out to me on Telegram <img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png"> (@Jappan07) or send me a mail at <a href="mailto: jappanjeet.99@gmail.com"><img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Gmail_logo.png"></a> jappanjeet.99@gmail.com.
+#### Feel free to reach out to me on Telegram <img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png"> (@Jappan07) or send me a mail at <a href="mailto: jappanjeet.99@gmail.com"><img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Gmail_logo.png"> jappanjeet.99@gmail.com</a>
 
 
 <!--
