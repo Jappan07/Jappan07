@@ -1,9 +1,9 @@
 # <a href="https://jappan07.github.io">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBanner.jpg)</a>
 <p align='center'>
-<a href="https://www.facebook.com/jappan.jeet.9/" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/jappan.jeet.9/" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://jappan07.github.io" target="_blank"><img height="30" style="position:relative; right:3px; top:1px" height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/globe.png"></a>&nbsp;&nbsp;
+<a href="https://jappan07.github.io" ><img height="30" style="position:relative; right:3px; top:1px" height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/globe.png"></a>&nbsp;&nbsp;
 </p>
 
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
