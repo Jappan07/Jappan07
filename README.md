@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/jappan.jeet.9/"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jappanjeet-singh/"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://jappan07.github.io"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/globe.png"></a>&nbsp;&nbsp;
+<a href="https://jappan07.github.io"><img height="40" src="https://github.com/Jappan07/Jappan07/blob/master/assets/globe.png"></a>&nbsp;&nbsp;
 </p>
 
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
