@@ -1,7 +1,7 @@
 # <a href="https://jappan07.github.io">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBanner.jpg)</a>
 <p align='center'>
 <a href="https://www.facebook.com/jappan.jeet.9/" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/jappanjeet" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/jappanjeet" ><img height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://jappan07.github.io" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
