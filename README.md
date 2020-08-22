@@ -6,7 +6,6 @@
 <a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://jappan07.github.io" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
 </p>
-##
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
 
 My name is Jappan ✌️, I'm a developer 👨🏻‍💻 who is passionate about web development and machine learning. I have a passion for learning and sharing my knowledge with others.
