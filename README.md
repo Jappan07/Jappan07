@@ -9,7 +9,8 @@
 
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
 
-#### Jappan this side, I'm a developer who is passionate about web development. I have a passion for learning and sharing my knowledge with others.<br>
+#### Jappan this side, I'm a developer who is passionate about web development. 
+#### I have a passion for learning and sharing my knowledge with others.
 #### Some technologies  I enjoy working with include  Javascript, React, Html/Css, Flask, Python & C++.
 #### 🙏🏻 I hope you'll find my work valuable 🙏🏻
 ## Things that's keeping me busy 🧠
