@@ -1,4 +1,4 @@
-# <a href="https://jappan07.github.io">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBanner.jpg)</a>
+# <a href="https://jappan07.github.io">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.jpg)</a>
 <p align='center'>
 <a href="https://www.facebook.com/jappan.jeet.9/" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jappanjeet" ><img height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
