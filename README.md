@@ -9,8 +9,27 @@
 
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
 
-My name is Jappan ✌️, I'm a developer 👨🏻‍💻 who is passionate about web development and machine learning. I have a passion for learning and sharing my knowledge with others.<br>
-Some technologies  I enjoy working with include Python, C++, Javascript, React, Html/Css & Flask. I hope you'll find my work valuable 🙏🏻. I am open for collaborating 🤝 in good projects.<br>
+#### Jappan this side ✌️, I'm a developer 👨🏻‍💻 who is passionate about web development. I have a passion for learning and sharing my knowledge with others.<br>
+#### Some technologies  I enjoy working with include  Javascript, React, Html/Css, Flask, Python & C++.
+#### 🙏🏻 I hope you'll find my work valuable 🙏🏻
+## Things that's keeping me busy 🧠
+* Web App Development
+* Frameworks: Flask, React, Jquery, Bootstrap
+* Language: Javascrip, Python & C++
+## Hackathons 🧑‍💻
+### Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
+[check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs)
+
+### Hack the Mountain - Made it to Top 10 innovative projects
+
+### Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
+
+## How to start a Convo with me 😇
+😄 Talk to me about cosmology, technology, science, and investing. <br>
+🧑‍💻 Show me your desk setups <br>
+🤝 Collab with me on Web Development Projects, Hackathons.
+<br>
+## Contact me 📞
 Feel free to reach out to me on **Telegram** <img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png"> (@Jappan07) or send me a mail 📫 at <a href="mailto: jappanjeet.99@gmail.com">jappanjeet.99@gmail.com</a>
 
 ## 
