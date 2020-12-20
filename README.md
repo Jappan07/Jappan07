@@ -17,12 +17,12 @@
 * Frameworks: Flask, React, Jquery, Bootstrap
 * Language: Javascrip, Python & C++
 ## Hackathons 🧑‍💻
-### Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
+### 🔗 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
 [check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs)
 
-### Hack the Mountain - Made it to Top 10 innovative projects
+### 🔗 Hack the Mountain - Made it to Top 10 innovative projects
 
-### Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
+### 🔗 Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
 
 ## How to start a Convo with me 😇
 😄 Talk to me about cosmology, technology, science, and investing. <br>
