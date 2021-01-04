@@ -11,12 +11,12 @@
 
 #### Jappan this side, I'm a developer who is passionate about web development. 
 #### I have a passion for learning and sharing my knowledge with others.
-#### Some technologies  I enjoy working with include  Javascript, React, Html/Css, Flask, Python & C++.
+#### Some technologies  I enjoy working with include  Javascript, React JS, Html/Css, Flask, Python & C++.
 #### 🙏🏻 I hope you'll find my work valuable 🙏🏻
 ## Things that's keeping me busy 🧠
 * Web App Development
-* Frameworks: Flask, React, Jquery, Bootstrap
-* Language: Javascrip, Python & C++
+* Frameworks: Flask, React JS, Jquery, Bootstrap
+* Languages: Javascript, Python & C++
 ## Hackathons 🧑‍💻
 ### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
 [check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs)
@@ -24,6 +24,8 @@
 ### 🚀 Hack the Mountain - Made it to Top 10 innovative projects
 
 ### 🚀 Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
+
+### 🚀 New Year New Hacks - Made a web app to simplfy Admission process to colleges (in development phase currently).
 
 ## How to start a Convo with me 😇
 😄 Talk to me about cosmology, technology, science, and investing. <br>
