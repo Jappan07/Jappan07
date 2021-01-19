@@ -17,23 +17,24 @@
 * Web App Development
 * Frameworks: Flask, React JS, Jquery, Bootstrap
 * Languages: Javascript, Python & C++
+
 ## Hackathons 🧑‍💻
-### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
+#### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
 [check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs)
 
-#### 🚀 Hack the Mountain - Made it to Top 10 innovative projects
+#### 🚀 Hack the Mountain - Made it to Top 10 innovative projects.
 
-#### 🚀 Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
+#### 🚀 Hack CBS 3.0 - Integrated cool annotations into Zoom meeting app.
 
-#### 🚀 New Year New Hacks - Made a web app to simplfy Admission process to colleges (currently in development phase).
+#### 🚀 New Year New Hacks - Made a web app to simplfy Admissions to colleges (currently in development phase).
 
 #### 🚀 NW Hacks - Made a gesture based music generation platform with React JS.
 [check it out](https://nwhacks-3cdee.web.app/)
 
 ## How to start a Convo with me 😇
 😄 Talk to me about cosmology, technology, science, and investing. <br>
-🧑‍💻 Show me your desk setups <br>
-🤝 Collab with me on Web Development Projects, Hackathons.
+🧑‍💻 Show me your desk setups and swags. <br>
+🤝 Collab with me on Web Development projects, hackathons.
 <br>
 ## Contact me 📞
 Feel free to reach out to me on **Telegram** <img width="15px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Telegram_logo.png"> (@Jappan07) or send me a mail 📫 at <a href="mailto: jappanjeet.99@gmail.com">jappanjeet.99@gmail.com</a>
