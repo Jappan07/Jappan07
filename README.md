@@ -16,9 +16,9 @@
 #### Some technologies  I enjoy working with include  Javascript, React JS, Html/Css, Flask, Python & C++.
 #### 🙏🏻 I hope you'll find my work valuable 🙏🏻
 ## Things that's keeping me busy 🧠
-* Web App Development
-* Frameworks: Flask, React JS, Jquery, Bootstrap
-* Languages: Javascript, Python & C++
+* Web App Development.
+* Frameworks & Libraries: Flask, React JS, Jquery, Bootstrap, Sass.
+* Languages: Javascript, Python & C++.
 
 ## Hackathons 🧑‍💻
 #### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
