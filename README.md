@@ -10,7 +10,7 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://t.me/Jappan07" target="_blank"><img alt="Telegram"
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-    </p><br />
+    </p>
 <div align="center">
         <h3> Hey Folks <img width="20px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" /></h3>
 <p>Welcome to my Github profile!<br />
