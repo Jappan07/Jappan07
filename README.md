@@ -20,7 +20,7 @@
 
 ## Hackathons 🧑‍💻
 #### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
-[check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs)
+[check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs){:target="_blank"}
 
 #### 🚀 Hack the Mountain - Made it to Top 10 innovative projects.
 
@@ -29,7 +29,7 @@
 #### 🚀 New Year New Hacks - Made a web app to simplfy Admissions to colleges (currently in development phase).
 
 #### 🚀 NW Hacks - Made a gesture based music generation platform with React JS.
-[check it out](https://nwhacks-3cdee.web.app/)
+[check it out](https://nwhacks-3cdee.web.app/){:target="_blank"}
 
 ## How to start a Convo with me 😇
 😄 Talk to me about cosmology, technology, science, and investing. <br>
