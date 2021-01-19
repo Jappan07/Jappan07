@@ -21,13 +21,13 @@
 ### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
 [check it out](https://www.youtube.com/watch?v=B66ZZ3z1FTs)
 
-### 🚀 Hack the Mountain - Made it to Top 10 innovative projects
+#### 🚀 Hack the Mountain - Made it to Top 10 innovative projects
 
-### 🚀 Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
+#### 🚀 Hack CBS 3.0 - Integrated cool annotation into Zoom meeting app.
 
-### 🚀 New Year New Hacks - Made a web app to simplfy Admission process to colleges (currently in development phase).
+#### 🚀 New Year New Hacks - Made a web app to simplfy Admission process to colleges (currently in development phase).
 
-### 🚀 NW Hacks - Made a gesture based music generation platform with React JS.
+#### 🚀 NW Hacks - Made a gesture based music generation platform with React JS.
 [check it out](https://nwhacks-3cdee.web.app/)
 
 ## How to start a Convo with me 😇
