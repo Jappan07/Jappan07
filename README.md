@@ -7,6 +7,8 @@
 <a href="https://jappan07.github.io" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
 </p>
 
+##
+
 # Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
 
 #### Jappan this side, I'm a developer who is passionate about web development. 
