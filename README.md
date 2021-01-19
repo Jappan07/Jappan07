@@ -21,7 +21,7 @@
 </div>
 
 ## Things that's keeping me busy 🧠
-* Web App Development.
+* Frontend Development.
 * Frameworks,Libraries & Technologies:
 <p>
 <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
