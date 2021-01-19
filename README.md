@@ -22,7 +22,7 @@
 
 ## Things that's keeping me busy 🧠
 * Web App Development.
-* Frameworks & Libraries: React JS, Redux, Jquery, Bootstrap, Sass, Flask,.
+* Frameworks, Libraries, Technologies: React JS, Redux, Firebase, Jquery, Bootstrap, Sass, Flask.
 * Languages: Javascript, Python & C++.
 
 ## Hackathons 🧑‍💻
