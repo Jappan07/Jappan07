@@ -6,15 +6,26 @@
 <a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://jappan07.github.io" target="_blank" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
 </p>
-
-##
+ <p>
+        <a href="https://www.instagram.com/jappan07/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="https://twitter.com/jappanjeet" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/jappanjeet-singh" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:jappanjeet.99@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://t.me/Jappan07"><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+    </p><br />
 <div align="center">
         <h3> Hey Folks <img width="20px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" /></h3>
 <p>Welcome to my Github profile!<br />
         I am a <b>Web developer</b> 🚀 from <b>New Delhi, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
-        I have a passion for sharing my knowledge with others and learning new things. </p>
+        I love to share my knowledge with others and learn new things. </p>
 </div>
+
 ## Things that's keeping me busy 🧠
 * Web App Development.
 * Frameworks & Libraries: Flask, React JS, Jquery, Bootstrap, Sass.
