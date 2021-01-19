@@ -41,7 +41,7 @@
 <a href="https://nwhacks-3cdee.web.app/" target="_blank">Check it out</a>
 
 ## How to start a Convo with me 😇
-😄 Talk to me about cosmology, technology, science, and investing. <br>
+😄 Talk to me about cosmology, technology, science, startups and investing. <br>
 🧑‍💻 Show me your desk setups and swags. <br>
 🤝 Collab with me on Web Development projects, hackathons.
 <br>
