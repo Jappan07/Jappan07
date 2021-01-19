@@ -9,6 +9,7 @@
 
 ##
 <div align="center">
+        <h1><img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" /></h1>
 <p>Welcome to my Github profile!<br />
         I am a <b>Web developer</b> 🚀 from <b>New Delhi, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
