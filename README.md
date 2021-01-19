@@ -17,7 +17,7 @@
 <p>Welcome to my Github profile!<br />
         I am a <b>Web developer</b> 🚀 from <b>New Delhi, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
-        I love to share my knowledge with others and learn new things. </p>
+        I love to learn new things and share it with others. </p>
 </div>
 
 ## Things that's keeping me busy 🧠
