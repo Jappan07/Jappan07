@@ -1,20 +1,19 @@
-# <a href="https://jappan07.github.io">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.jpg)</a>
+# <a href="https://jappan07.github.io" target="_blank">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.jpg)</a>
 <p align='center'>
-<a href="https://www.facebook.com/jappan.jeet.9/" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/jappanjeet" ><img height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://jappan07.github.io" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/jappan.jeet.9/" target="_blank" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/jappanjeet" target="_blank" ><img height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com" target="_blank" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://jappan07.github.io" target="_blank" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
 </p>
 
 ##
-
-# Hello, folks! <img src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" width="30px">
-
-#### Jappan this side, I'm a developer who is passionate about web development. 
-#### I have a passion for learning and sharing my knowledge with others.
-#### Some technologies  I enjoy working with include  Javascript, React JS, Html/Css, Flask, Python & C++.
-#### 🙏🏻 I hope you'll find my work valuable 🙏🏻
+<div align="center">
+<p>Welcome to my Github profile!<br />
+        I am a <b>Web developer</b> 🚀 from <b>New Delhi, India</b> <img
+            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I have a passion for sharing my knowledge with others and learning new things. </p>
+</div>
 ## Things that's keeping me busy 🧠
 * Web App Development.
 * Frameworks & Libraries: Flask, React JS, Jquery, Bootstrap, Sass.
