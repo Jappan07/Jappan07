@@ -1,4 +1,5 @@
 # <a href="https://jappan07.github.io" target="_blank">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.jpg)</a>
+ <h3> Hey Folks <img width="20px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" />, I'm Jappan</h3>
  <p align="center">
         <a href="https://www.instagram.com/jappan07/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -12,7 +13,7 @@
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
     </p>
 <div align="center">
-        <h3> Hey Folks <img width="20px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" /></h3>
+        
 <p>Welcome to my Github profile!<br />
         I am a <b>Web developer</b> 🚀 from <b>New Delhi, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
