@@ -1,11 +1,4 @@
 # <a href="https://jappan07.github.io" target="_blank">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.jpg)</a>
-<p align='center'>
-<a href="https://www.facebook.com/jappan.jeet.9/" target="_blank" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/jappanjeet" target="_blank" ><img height="32" src="https://github.com/Jappan07/Jappan07/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com" target="_blank" ><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jappanjeet-singh/" target="_blank" target="_blank"><img height="30" src="https://github.com/Jappan07/Jappan07/blob/master/assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://jappan07.github.io" target="_blank" ><img height="31px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/Globe.png"></a>&nbsp;&nbsp;
-</p>
  <p align="center">
         <a href="https://www.instagram.com/jappan07/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
