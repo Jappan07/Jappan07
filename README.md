@@ -44,6 +44,11 @@
 </p>
 
 ## Hackathons 🧑‍💻
+
+#### 🚀 Microsoft Azure AI Hackathon.
+
+<a href="https://locustlocator.vercel.app" target="_blank">Check it out</a>
+
 #### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
 
 <a href="https://www.youtube.com/watch?v=B66ZZ3z1FTs" target="_blank">Check it out</a>
