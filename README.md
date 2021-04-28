@@ -45,9 +45,9 @@
 
 ## Hackathons 🧑‍💻
 
-#### 🚀 Microsoft Azure AI Hackathon.
+#### 🚀 Microsoft Azure AI Hackathon winner popular choice
 
-<a href="https://locustlocator.vercel.app" target="_blank">Check it out</a>
+<a href="https://locustlocator2.vercel.app" target="_blank">Check it out</a>
 
 #### 🚀 Silly Hacks 2020 - Project Demonstrated specially in the Closing Ceremony.
 
