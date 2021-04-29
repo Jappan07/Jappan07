@@ -45,7 +45,7 @@
 
 ## Hackathons 🧑‍💻
 
-#### 🚀 Microsoft Azure AI Hackathon Winner popular choice ⭐️
+#### 🚀 ⭐️ Microsoft Azure AI Hackathon Winner popular choice ⭐️
 
 <a href="https://locustlocator2.vercel.app" target="_blank">Check it out</a>
 
