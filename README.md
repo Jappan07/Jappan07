@@ -16,7 +16,7 @@
         
 <p>Welcome to my Github profile!<br />
         I am a <b>Frontend Engineer</b> 🚀 from <b>New Delhi, India</b> <img
-            src="https://cdn-icons-png.flaticon.com/512/1455/1455689.png" width="14" /><br />
+            src="https://cdn-icons-png.flaticon.com/512/1455/1455689.png" width="24" /><br />
         I love to learn new things and share it with others. </p>
 </div>
 
