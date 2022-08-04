@@ -1,4 +1,4 @@
-<a href="https://jappan07.github.io" target="_blank">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.jpg)</a>
+<a href="https://jappan07.github.io" target="_blank">![jappan header](https://github.com/Jappan07/Jappan07/blob/master/assets/githubBannerNew.png)</a>
  <h3 align="center"> Hey Folks<img width="20px" src="https://github.com/Jappan07/Jappan07/blob/master/assets/wave_hand.gif" /> I'm Jappan</h3>
 <p align="center">
         <a href="https://www.instagram.com/jappan07/" target="_blank"><img alt="Instagram"
